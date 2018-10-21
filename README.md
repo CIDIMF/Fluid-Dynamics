@@ -1,4 +1,4 @@
-# Fluid-Dynamics
+# Fluid Mechanics with Matlab I
 
 Scripts para el Curso de Matlab usando casos de Mecánica de Fluidos, tomando como referencia cursos de Matlab de otras universidades.
 
