@@ -1,7 +1,7 @@
 clear all
 clc
 
-%temario_casos_aplicacion
+%TEMARIO CASOS APLICACION
 
 %1. Conceptos fundamentales y propiedades de los fluidos
 %1.1. Propiedades de los fluidos
@@ -13,7 +13,7 @@ clc
 %2.1. variacion de presion en un fluido incomprensible en reposo
 %2.2. variacion de presion en un fluido comprensible en reposo
 %2.3. presion atmosferica local
-%2.4. transductor de presiÛn
+%2.4. transductor de presi√≥n
 
 %3. Ecuaciones fundamentales de la mecanica de fluidos
 %3.1. aspectos basicos para el analisis de flujo
@@ -26,4 +26,4 @@ clc
 %4. analisis dimensional y similitud
 %4.1. teorima PI de buckingham
 %4.2. similitud
-%semejanza geometrica,semejanza cinem·tica y din·mica
+%semejanza geometrica,semejanza cinem√°tica y din√°mica
