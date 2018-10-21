@@ -3,8 +3,8 @@ clc
 
 %ESTRUCTURA DEL CURSO
 
-%Modulo 1. Variables, scripts and operations
-%Modulo 2. Visualization and programming
-%Modulo 3. Solving equations and curve fifting
-%Modulo 4. Advanced methods
-%Modulo 5. file I/O
+%Modulo 1. Scripts, variables y operaciones
+%Modulo 2. Visualización y programacion
+%Modulo 3. Resolucion de ecuaciones y ajuste de curvas
+%Modulo 4. Metodos avanzados
+%Modulo 5. Importación y exportación de datos
