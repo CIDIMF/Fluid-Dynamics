@@ -1,7 +1,7 @@
 clear all
 clc
 
-%TEMARIO CASOS APLICACION
+%TEMARIO  DE LOS CASOS DE APLICACION DE LA MECANICA DE FLUIDOS USANDO MATLAB
 
 %1. Conceptos fundamentales y propiedades de los fluidos
 %1.1. Propiedades de los fluidos
