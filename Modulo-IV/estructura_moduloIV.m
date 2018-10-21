@@ -4,5 +4,5 @@ clc
 %Modulo IV : Estructura
 %Probabilidad y estadisticas
 %Imagenes y animaciones
-%Depuración (o debugging)
-%Fuentes de información online
+%DepuraciÃ³n (o debugging)
+%Fuentes de informaciÃ³n online
