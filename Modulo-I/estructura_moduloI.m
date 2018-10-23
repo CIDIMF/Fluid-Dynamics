@@ -1,8 +1,7 @@
 clear all
 clc
 
-%Modulo I : Estructura
+%Modulo I : introduccion
 %Scripts
-%Generación de variables
-%Manipulación de variables
-%Gráfico básico
+%Generaci�n de variables
+%Gr�fico b�sico
